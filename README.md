@@ -1,41 +1,62 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Lowe 👋</h1>
 
-#  Justin Louie Arangorin
+<p align="center">
+  BSIT graduate from New Era University, focused on UI/UX and full-stack web development.
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/justinlouiearangorin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arangorinjustinlouie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I am Justin Louie Arangorin, a passionate individual with a flair for coding and expertise in database management. I thrive on tackling complex problems and crafting elegant solutions. My journey in technology began with the BS Information Technology program, and I continue to explore and grow in this ever-evolving field.
+---
 
-## Education
+### About me
 
-- **BS Information Technology**
-  New Era University
-  *2021 - Present*
+I'm a recent BSIT graduate (College of Informatics and Computing Sciences, New Era University) with hands-on experience building full-stack systems and designing usable interfaces. My background covers:
 
-## Certification
-- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/a2bb70a2a5484c3885bf28d5c31c8ba7)
-- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1C511F4629567A633BFDFE1CCDD8FDEA56F85B9428619065E7C115DC0A391BC5&fbclid=IwAR3s1ANbG55e0vIbkxupyyuKIT0UYRv3dlARYxli5yzM8VpP8XnkaNO01VM)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B3A5E975120DF0D76F02128985AECDC682C43EBF94FA1E4CD658EA31A9AD54F0&fbclid=IwAR1-NVGcSmFU15h-mBVpvHTMHxhQzaWAWuiAvmyUr7rqFskD9ajdMxV43CA)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F78991E37A2C2993EF0BFC2237AFB9FCE4AA557AB873FF660AC3936754D983E3&fbclid=IwAR0oxMgt1DeDnGl_Pb9rTgU8-iE-9M88mZyZastM-nY0ocWu3J3gyhQ0unA)
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/19ee77d0565e492186480ceaa703ef2b)
+- 🧭 **NEUWay** — a hybrid indoor-outdoor campus navigation system built as my capstone project. Uses Dijkstra's algorithm with Catmull-Rom spline smoothing for pathfinding, custom SVG floor maps, and an Express/MongoDB backend.
+- 🏛️ **Procurement Monitoring and Management System (PMMS)** — built during my internship at the Department of Agriculture's Agricultural Training Institute, where I worked as Team Lead and UI/UX Designer on a Laravel/React/MySQL system deployed on AWS EC2.
+- 🎨 UI/UX design, grounded in the Google UX Design Professional Certificate and a lot of time in Figma.
 
-## Skill Sets
+### What I'm into
 
-- **Programming:**
-  - Java
-  - Javascript
+- Building things end-to-end — from database schema to the pixels users actually click on
+- Clean, well-reasoned UI flows over flashy ones
+- Currently looking for entry-level web development roles
 
-- **Databases:**
-  - IBM DB2 Cloud
+### Tech stack
 
-- **Tools:**
-  - Lucidchart
-  - Jaspersoft Studio
-  - Eclipse
-  - HTML
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-## Contact Me
+### GitHub stats
 
-- **LinkedIn:** [arangorin-justin-louie](https://www.linkedin.com/in/arangorin-justin-louie-bb8205249/)
-- **Email:** arangorinjustinlouie@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Louweyy&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louweyy&hide_border=true" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louweyy&layout=compact&hide_border=true&theme=default" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  📫 Reach me at <a href="mailto:arangorinjustinlouie@gmail.com">arangorinjustinlouie@gmail.com</a> or on <a href="https://www.linkedin.com/in/justinlouiearangorin">LinkedIn</a>
+</p>
